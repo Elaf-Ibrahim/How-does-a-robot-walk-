@@ -25,6 +25,7 @@
         robot.adjust_balance()
 قمت بتوصيل دائرة كهربائية مكونة من   servo (6), Arduino Uno and wires
 ![لقطة شاشة 2024-08-01 051534](https://github.com/user-attachments/assets/d067b2fe-2a20-466a-aed9-e82a8cca29af)
+https://www.tinkercad.com/things/gEjjPSUNMse-terrific-snicket-blorr/editel?returnTo=%2Fthings%2FgEjjPSUNMse-terrific-snicket-blorr&sharecode=wS_NalaHdrVFLllDNyTiufbA0vmEVW2CQyEv3lOKRcA
 و قمت ببرمجة الدائرة عن طريق برنامج Arduino IDE 
         
 ![لقطة شاشة 2024-08-01 045209](https://github.com/user-attachments/assets/9197c61a-e754-44c4-a378-1b83cbba7711)
