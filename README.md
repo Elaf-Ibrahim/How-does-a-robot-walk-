@@ -24,8 +24,6 @@
         # ضبط توازن الروبوت
         robot.adjust_balance()
 قمت بتوصيل دائرة كهربائية مكونة من   servo (6), Arduino Uno and wires وايضا برمجتها 
+![لقطة شاشة 2024-08-01 092756](https://github.com/user-attachments/assets/b91343e5-0e3f-451b-ba06-df4828279828)
 
-![لقطة شاشة 2024-08-01 085544](https://github.com/user-attachments/assets/8f2ac9c4-bbdc-406e-871b-8ab595e745b2)
-https://www.tinkercad.com/things/gEjjPSUNMse-terrific-snicket-blorr/editel?returnTo=%2Fthings%2FgEjjPSUNMse-terrific-snicket-blorr&sharecode=wS_NalaHdrVFLllDNyTiufbA0vmEVW2CQyEv3lOKRcA
-        
-        
+https://www.tinkercad.com/things/gEjjPSUNMse-terrific-snicket-blorr/editel?returnTo=%2Fthings%2FgEjjPSUNMse-terrific-snicket-blorr&sharecode=wS_NalaHdrVFLllDNyTiufbA0vmEVW2CQyEv3lOKRcA        
